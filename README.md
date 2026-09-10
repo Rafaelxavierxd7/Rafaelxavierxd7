@@ -54,9 +54,9 @@ Sou **Rafael Xavier**, um desenvolvedor de **23 anos** apaixonado por tecnologia
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-xavier-16b1501b9/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt=""/>
   </a>
   <a href="https://github.com/byFaelz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt=""/>
   </a>
 </p>
