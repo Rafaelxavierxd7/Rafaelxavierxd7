@@ -39,12 +39,12 @@ Sou **Rafael Xavier**, um desenvolvedor de **23 anos** apaixonado por tecnologia
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafaelxavierxd7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Rafaelxavierxd7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rafaelxavierxd7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Rafaelxavierxd7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelxavierxd7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelxavierxd7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -53,9 +53,9 @@ Sou **Rafael Xavier**, um desenvolvedor de **23 anos** apaixonado por tecnologia
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-xavier-16b1501b9/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/byFaelz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
 </p>
