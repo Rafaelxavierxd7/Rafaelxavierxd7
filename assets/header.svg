@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" fill="none">
+  <title>Rafael Xavier — Desenvolvedor em formação</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#192421"/><stop offset="1" stop-color="#101817"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#A5C4B5" stroke-opacity="0.045"/></pattern>
+  </defs>
+  <rect width="1280" height="480" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="480" rx="20" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="478" rx="19" stroke="#3A4944"/>
+  <path d="M68 1H1212" stroke="#DCA77D" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="64" y="49" width="42" height="42" rx="12" fill="#DCA77D"/>
+    <text x="85" y="76" text-anchor="middle" font-size="17" font-weight="700" fill="#17201D">rx.</text>
+    <text x="123" y="75" font-size="13" font-weight="600" letter-spacing="3" fill="#C4CEC8">RAFAEL / DEV</text>
+    <circle cx="980" cy="70" r="4" fill="#91C9AD"/>
+    <text x="995" y="75" font-size="13" letter-spacing="1" fill="#B6CEC0">EM INÍCIO DE CARREIRA</text>
+    <text x="64" y="161" font-size="13" letter-spacing="3" fill="#DCA77D">DESENVOLVEDOR EM FORMAÇÃO</text>
+    <text x="59" y="238" font-size="72" font-weight="650" letter-spacing="-3" fill="#F2F1E9">Rafael Xavier</text>
+    <text x="64" y="292" font-size="28" fill="#C1CDC5">Aprender. Construir. <tspan fill="#DCA77D">Evoluir.</tspan></text>
+    <text x="65" y="338" font-size="17" fill="#94A69C">Construindo minha base em desenvolvimento back-end.</text>
+    <path d="M64 385H1216" stroke="#35433D"/>
+    <text x="64" y="430" font-size="12" letter-spacing="2" fill="#ADBDB2">PYTHON &amp; JAVA</text>
+    <text x="282" y="430" font-size="12" letter-spacing="2" fill="#ADBDB2">LÓGICA + PRÁTICA</text>
+    <text x="1216" y="430" text-anchor="end" font-size="12" letter-spacing="2" fill="#ADBDB2">PORTFÓLIO EM CONSTRUÇÃO ↗</text>
+  </g>
+  <g transform="translate(850 131)">
+    <circle cx="156" cy="115" r="110" stroke="#40544A" stroke-opacity="0.6"/>
+    <circle cx="156" cy="115" r="83" stroke="#40544A" stroke-opacity="0.4" stroke-dasharray="3 9"/>
+    <path d="M32 115H280M156 -8V238" stroke="#40544A" stroke-opacity="0.45"/>
+    <rect x="26" y="47" width="260" height="141" rx="12" fill="#18231F" stroke="#506253"/>
+    <path d="M26 82H286" stroke="#34483C"/>
+    <circle cx="43" cy="64" r="3" fill="#DCA77D"/><circle cx="55" cy="64" r="3" fill="#A5B898"/><circle cx="67" cy="64" r="3" fill="#7F9D88"/>
+    <g font-family="Consolas, monospace" font-size="15">
+      <text x="44" y="116" fill="#DCA77D">while <tspan fill="#E6E8DD">learning:</tspan></text>
+      <text x="62" y="142" fill="#A8C9B7">practice()</text>
+      <text x="62" y="168" fill="#A8C9B7">improve()</text>
+    </g>
+    <circle cx="156" cy="5" r="5" fill="#DCA77D"/>
+    <circle cx="265" cy="132" r="4" fill="#91C9AD"/>
+  </g>
+</svg>

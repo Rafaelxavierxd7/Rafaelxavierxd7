@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="188" viewBox="0 0 1280 188" fill="none">
+  <title>Minha base técnica em desenvolvimento</title>
+  <rect x="1" y="1" width="1278" height="186" rx="16" fill="#151E1A" stroke="#3A4940"/>
+  <g stroke="#35443B"><path d="M320 32V156M640 32V156M960 32V156"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g fill="#DCA77D" font-size="12" letter-spacing="2"><text x="32" y="42">01 / LÓGICA</text><text x="352" y="42">02 / BACK-END</text><text x="672" y="42">03 / WEB</text><text x="992" y="42">04 / VERSIONAMENTO</text></g>
+    <g fill="#F0F1E9" font-size="31" font-weight="600"><text x="32" y="96">Python</text><text x="352" y="96">Java</text><text x="672" y="96">HTML &amp; CSS</text><text x="992" y="96">Git &amp; GitHub</text></g>
+    <g fill="#A8BCAE" font-size="16"><text x="32" y="137">Fundamentos e prática</text><text x="352" y="137">Orientação a objetos</text><text x="672" y="137">Estrutura e apresentação</text><text x="992" y="137">Código e colaboração</text></g>
+  </g>
+</svg>
