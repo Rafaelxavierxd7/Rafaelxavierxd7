@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="132" viewBox="0 0 1280 132" fill="none">
+  <title>Uma base sólida. Um passo de cada vez.</title>
+  <rect width="1280" height="132" rx="16" fill="#151E1A"/>
+  <path d="M36 1H1244" stroke="#718C76"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="42" y="61" fill="#E8EBDF" font-size="24" font-weight="600">Uma base sólida. Um passo de cada vez.</text>
+    <text x="43" y="91" fill="#A8BCAE" font-size="14">Curiosidade para aprender. Dedicação para continuar.</text>
+    <text x="1236" y="78" text-anchor="end" fill="#DCA77D" font-size="40" font-weight="700" letter-spacing="-2">rx.</text>
+  </g>
+</svg>
